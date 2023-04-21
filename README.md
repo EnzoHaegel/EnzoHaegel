@@ -5,7 +5,7 @@ I'm Enzo Haegel, an Epitech student from Nantes. I'm passionate about web develo
 ## Connect with me
 
 [![Twitter: Poseydon989](https://img.shields.io/twitter/follow/poseydon989?style=social)](https://twitter.com/poseydon989)
-[![Linkedin: Enzo Haegel](https://img.shields.io/badge/-enzo-haegel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)](https:/www.linkedin.com/in/enzo-haegel/)
+[![Linkedin: Enzo Haegel](https://img.shields.io/badge/enzo-haegel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)](https:/www.linkedin.com/in/enzo-haegel/)
 [![GitHub: Enzo Haegel](https://img.shields.io/github/followers/EnzoHaegel?label=follow&style=social)](https://github.com/EnzoHaegel)
 
 ## Technologies & Tools

@@ -26,13 +26,17 @@ I'm Enzo Haegel, an Epitech student from Nantes. I'm passionate about web develo
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 
-## Projects Showcase
+## Top Repositories
 
-### League of Stats
+<a href="https://github.com/EnzoHaegel/LeagueOfStats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoHaegel&repo=LeagueOfStats&theme=radical" />
+</a>
 
-[![League of Stats Repo](https://github-readme-stats.vercel.app/api/pin/?username=EnzoHaegel&repo=LeagueOfStats&theme=radical)](https://github.com/EnzoHaegel/LeagueOfStats)
+_Replace this with more repositories if needed._
 
-League of Stats is an Angular-based website that allows you to view the match history of any League of Legends player across all regions. By simply typing in a player's name, you can access detailed statistics and insights about their past games. Check out the [repository](https://github.com/EnzoHaegel/LeagueOfStats) for more information.
+## Language Usage
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoHaegel&layout=compact&theme=radical)
 
 ## GitHub Stats
 

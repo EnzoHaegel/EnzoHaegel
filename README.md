@@ -26,6 +26,18 @@ I'm Enzo Haegel, an Epitech student from Nantes. I'm passionate about web develo
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 
+## Projects Showcase
+
+### League of Stats
+
+[![League of Stats Repo](https://github-readme-stats.vercel.app/api/pin/?username=EnzoHaegel&repo=LeagueOfStats&theme=radical)](https://github.com/EnzoHaegel/LeagueOfStats)
+
+League of Stats is an Angular-based website that allows you to view the match history of any League of Legends player across all regions. By simply typing in a player's name, you can access detailed statistics and insights about their past games. Check out the [repository](https://github.com/EnzoHaegel/LeagueOfStats) for more information.
+
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoHaegel&show_icons=true&theme=radical)
+
+## GitHub Streaks
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EnzoHaegel&theme=radical)](https://git.io/streak-stats)

@@ -32,8 +32,6 @@ I'm Enzo Haegel, an Epitech student from Nantes. I'm passionate about web develo
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoHaegel&repo=LeagueOfStats&theme=radical" />
 </a>
 
-_Replace this with more repositories if needed._
-
 ## Language Usage
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoHaegel&layout=compact&theme=radical)

@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Enzo Haegel, an Epitech student from Nantes. I'm passionate about web development and AI. I love learning new things in the field of computer programation.
+I'm Enzo Haegel, I'm passionate about web development and AI. I love learning new things in the field of computer programation.
 
 ## Connect with me
 
